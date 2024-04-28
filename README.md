@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">IT Uzmanı, Front-End ve Bol miktarda Python</h3>
+<h3 align="center">IT Uzmanı, Biraz Front-End ve Bol miktarda Python</h3>
 
 - 📫 How to reach me **aliburaksan@gmail.com**
 
